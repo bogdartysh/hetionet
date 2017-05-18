@@ -4,7 +4,7 @@ node {
   border-color: #9AA1AC;
   border-width: 1px;
   text-color-internal: #FFFFFF;
-  font-size: 8px;
+  font-size: 6px;
 }
 
 relationship {
