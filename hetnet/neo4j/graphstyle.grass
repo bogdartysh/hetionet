@@ -18,9 +18,14 @@ relationship {
 }
 
 
-node.Symptom {
-  color: #A5ABB6;
-  border-color: #FFFFFF;
-  text-color-internal: #FFFFFF;
-  caption: '{name}';
+node.Table {
+  color: #1AB901;  
+}
+
+node.View {
+  color: #01B9AD;  
+}
+
+node.csvFile {
+  color: #D02E2E;  
 }
